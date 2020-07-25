@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://www.eventbrite.com/e/webinarazure-administrator-associate-az-104-free-training-registration-111509897104
+DTSTART:20200726T133000Z
+DTEND:20200726T163000Z
+SUMMARY:[Webinar]Azure Administrator Associate (AZ-104) Free Training
+DESCRIPTION:For details, go here:\nhttps://www.eventbrite.com/e/webinarazure-administrator-associate-az-104-free-training-registration-111509897104\n\nTo access the online event page, go here:\nhttps://www.eventbrite.com/x/webinarazure-administrator-associate-az-104-free-training-registration-111509897104
+LOCATION:
+END:VEVENT
+END:VCALENDAR
